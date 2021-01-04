@@ -3,7 +3,7 @@
   <a href="https://github.com/marmitoTH/happy-nlw">
     <img src="https://user-images.githubusercontent.com/25598040/96660779-e2ce8a80-1320-11eb-891a-503fd72dfbe1.png" />
   </a>
-  <h2 align="center">happy</h2></br>
+  <h3 align="center">happy</h3></br>
   <p align="center">
     <a href='https://nodejs.org' target='__blank'>
     	<img src="https://img.shields.io/badge/Backend-Node.js-green?style=flat-square&link=https://nodejs.org">
