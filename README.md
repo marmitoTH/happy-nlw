@@ -20,7 +20,7 @@
   </p>
 </p>
 
-## About the project
+## 🔍 About
 
 <img src="https://user-images.githubusercontent.com/25598040/96660681-9be09500-1320-11eb-81cc-841e90fb9196.png">
 
@@ -30,14 +30,14 @@ The idea behind the app is to register non-governmental organizations responsibl
 
 Due to the time constraints of the challenge the application ended up with a big margin for improvements, like a proper authentication system for both the application and the api.
 
-## Demo
+## 👀 Demo
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/25598040/96724514-4c34b480-1386-11eb-9c30-4207c68f805b.gif" />
   <img src="https://user-images.githubusercontent.com/25598040/96729019-12b27800-138b-11eb-9bf7-c3bba1117b93.gif">
 </p>
 
-## Made With
+## 🔧 Made With
 
 ### Frontend
 - [React](https://reactjs.org/)
@@ -56,7 +56,7 @@ Due to the time constraints of the challenge the application ended up with a big
 - [Nodemon](https://nodemon.io/)
 - [Sequelize](https://sequelize.org/)
 
-## Installation
+## 🔌 Installation
 
 `git clone https://github.com/marmitoTH/happy-nlw.git`
 
